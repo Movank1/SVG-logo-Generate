@@ -1,0 +1,7 @@
+<svg version="1.1" width="300" height="200" xmlns="http://www.w3.org/2000/svg">
+
+  <path d="M30,100 A80,80 0 0,1 200,100" fill="green" />
+
+  <text x="100" y="100" font-size="45" text-anchor="middle" fill="white">SVG</text>
+
+</svg>
